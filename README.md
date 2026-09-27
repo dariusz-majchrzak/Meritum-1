@@ -33,7 +33,7 @@ Many useful materials can also be found at: https://www.speccy.pl/news.php .
 Although the mainboard includes several configuration jumpers, it does not require any additional settings that need to be adjusted before powering it on. The default configuration is sufficient.<br>
 
 To connect mainboard with keyboard I have used:
--  single and double Row, 2.54mm straight, Gold PCB Female IDC Sockets Connector
+-  single and double Row, 2.54mm straight, Gold PCB Female Sockets Connector
 -  single and double Row, 2.54mm straight, Gold PCB Male Pin Header connector (h=29.5mm)
   
 More to follow.
