@@ -5,7 +5,7 @@ This part of the project is the clone of the Meritum 1 mainboard.
 ![](img/Meritum1_PGW.png)
 
 ## Files
-This directory containss: 
+This directory contains: 
 
 * [BOM](bom) - Interactive HTML BOM
 * [Gerber](gerber) - files (JLCPCB-compatible zip files)
