@@ -13,7 +13,7 @@ As of September 27, 2026, there are 4 successful builds (based on this pcb proje
 ![](Meritum1.png)
 
 Note:<br>
-Please be aware that this is a complex hardware project that requires solid technical experience from anyone attempting to assemble it.
+Please note that this is a complex hardware project that requires solid technical expertise from anyone who decides to build it.
 
 ## PCBs
 The clone consists of two separate PCBs:
