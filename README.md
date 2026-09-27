@@ -30,5 +30,6 @@ Below, however, I provide links to a websites where they can be found, along wit
 Many useful materials can also be found at: https://www.speccy.pl/news.php .
 
 ## Assembling
+WIP
   
 More to follow.
