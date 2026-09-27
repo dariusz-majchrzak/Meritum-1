@@ -1,0 +1,112 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f1ee0d68-bb27-4bee-871c-b17dc3abe5b9")
+	(paper "A3")
+	(title_block
+		(title "KOMPUTER MERITUM-1 KLT")
+		(date "2026-08-16")
+		(rev "1.1")
+		(company "DAREKM")
+	)
+	(lib_symbols)
+	(sheet
+		(at 215.9 63.5)
+		(size 101.6 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0e932eeb-da35-4e67-97cf-39c108b4c00a")
+		(property "Sheetname" "Memory"
+			(at 215.9 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory.kicad_sch"
+			(at 215.9 140.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_KLT"
+				(path "/f1ee0d68-bb27-4bee-871c-b17dc3abe5b9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 63.5)
+		(size 101.6 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "385d532f-5acf-435c-8a9d-ae48a9768ea2")
+		(property "Sheetname" "Keyboard"
+			(at 50.8 62.7884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Keyboard.kicad_sch"
+			(at 50.8 140.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_KLT"
+				(path "/f1ee0d68-bb27-4bee-871c-b17dc3abe5b9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
