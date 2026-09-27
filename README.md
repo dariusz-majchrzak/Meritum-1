@@ -7,6 +7,7 @@ It has fascinated me for years as an important part of Poland’s computing hist
 I also noticed that almost no modern projects related to it exist.
 
 Given that, I decided to build one myself: using the documentation available online — schematics, module descriptions, and board photos — I set out to recreate the machine as my own hardware project.
+As of September 27, 2026, there are 4 successful builds (based on this pcb project), so the design files can be assumed valid.
 
 ![](Meritum1.png)
 
