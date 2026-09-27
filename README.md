@@ -20,5 +20,9 @@ Important notes:<br>
 The clone consists of two separate PCBs:
 * [Meritum_PGW](Meritum_PGW) (Meritum Płyta Główna) - is the main board.
 * [Meritum_KLT](Meritum_KLT) (Meritum Klawiatura) - is a replacement keyboard that uses standard Cherry MX switches.
+
+## ROMs
+Since the licensing status of the ROMs used in the Meritum 1 computer is not clear to me, I have not included them in this repository. Below, however, I provide a link to a website where they can be found, along with many other valuable resources.
+https://web.archive.org/web/20201023154655/https://sites.google.com/site/krzkomar/meritum-1
   
 More to follow.
