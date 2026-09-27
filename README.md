@@ -12,7 +12,7 @@ Given that, I decided to build one myself: using the documentation available onl
 
 ## PCBs
 The clone consists of two separate PCBs:
-* [Meritum_PGW](Meritum_PGW) (Meritum Płyta Główna) - is the main board (Meritum Płyta Główna).
+* [Meritum_PGW](Meritum_PGW) (Meritum Płyta Główna) - is the main board.
 * [Meritum_KLT](Meritum_KLT) (Meritum Klawiatura) - is a replacement keyboard that uses standard Cherry MX switches.
   
 More to follow.
