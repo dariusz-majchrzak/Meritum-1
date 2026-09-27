@@ -9,9 +9,11 @@ I also noticed that almost no modern projects related to it exist.
 Given that, I decided to build one myself: using the documentation available online — schematics, module descriptions, and board photos — I set out to recreate the machine as my own hardware project.
 
 As of September 27, 2026, there are 4 successful builds (based on this pcb project), so the design files can be assumed valid.<br>
-Please be aware that this is a complex hardware project that requires solid technical experience from anyone attempting to assemble it.
 
 ![](Meritum1.png)
+
+Note:<br>
+Please be aware that this is a complex hardware project that requires solid technical experience from anyone attempting to assemble it.
 
 ## PCBs
 The clone consists of two separate PCBs:
