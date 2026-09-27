@@ -1,0 +1,250 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3519fbbb-c9f5-403b-8c20-18f951ce42e1")
+	(paper "A3")
+	(title_block
+		(title "KOMPUTER MERITUM-1 PWG")
+		(date "2026-08-16")
+		(rev "1.1")
+		(company "DAREKM")
+	)
+	(lib_symbols)
+	(sheet
+		(at 181.61 50.8)
+		(size 78.74 63.246)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0c6db8ab-17ad-406e-9145-e00607fb6e53")
+		(property "Sheetname" "MEM"
+			(at 181.61 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MEM.kicad_sch"
+			(at 181.61 114.6306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_PGW"
+				(path "/3519fbbb-c9f5-403b-8c20-18f951ce42e1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 303.53 47.752)
+		(size 83.566 62.738)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7d4d4c6b-5b87-4204-bfdc-48f67665e90c")
+		(property "Sheetname" "Interface"
+			(at 303.53 47.0404 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Interface.kicad_sch"
+			(at 303.53 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_PGW"
+				(path "/3519fbbb-c9f5-403b-8c20-18f951ce42e1"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 177.8)
+		(size 77.47 62.484)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ba6ed968-6ca6-48eb-8583-00caa0d358a5")
+		(property "Sheetname" "Power"
+			(at 176.53 177.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 176.53 240.8686 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_PGW"
+				(path "/3519fbbb-c9f5-403b-8c20-18f951ce42e1"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.802 50.292)
+		(size 78.74 63.246)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d46545a9-62a9-4412-878e-bae4955c7956")
+		(property "Sheetname" "CPU"
+			(at 66.802 49.5804 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU.kicad_sch"
+			(at 66.802 114.1226 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_PGW"
+				(path "/3519fbbb-c9f5-403b-8c20-18f951ce42e1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.484 177.038)
+		(size 77.47 62.484)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d7ff14e5-5629-4a96-855f-27d1da72b8dd")
+		(property "Sheetname" "Display"
+			(at 62.484 176.3264 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Display.kicad_sch"
+			(at 62.484 240.1066 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Meritum_PGW"
+				(path "/3519fbbb-c9f5-403b-8c20-18f951ce42e1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
