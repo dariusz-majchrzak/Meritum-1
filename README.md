@@ -9,3 +9,10 @@ I also noticed that almost no modern projects related to it exist.
 Given that, I decided to build one myself: using the documentation available online — schematics, module descriptions, and board photos — I set out to recreate the machine as my own hardware project.
 
 ![](Meritum1.png)
+
+## PCBs
+The clone consists of two separate PCBs:
+* [Meritum_PGW](Meritum_PGW) (Meritum Płyta Główna) - is the main board (Meritum Płyta Główna).
+* [Meritum_KLT](Meritum_KLT) (Meritum Klawiatura) - is a replacement keyboard that uses standard Cherry MX switches.
+  
+More to follow.
