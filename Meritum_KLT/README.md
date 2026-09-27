@@ -14,6 +14,7 @@ This directory contains:
 * [Schematic](schematic) - Schematic in PDF format
 
 ## Assembling
-WIP
+As for assembling the keyboard PCB, there are no major challenges here. The board is relatively straightforward to build.<br> 
+One piece of information may be more important: for mounting the switches I used gold‑plated hot‑swap sockets for mechanical keyboards.
 
 More to follow.
