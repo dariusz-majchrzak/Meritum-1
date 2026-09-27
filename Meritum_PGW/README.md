@@ -12,8 +12,6 @@ This directory containss:
 * [IMG](img) - photos of the mainboard
 * [KiCAD](kicad) - project design in KiCAD 10
 * [Schematic](schematic) - Schematic in PDF format
-* [Docs](docs) - scans of the original pdf documentation
-* [Tests](tests) - program in Basic to test 8255 ports lines
 
 ## Assembling
 WIP.
