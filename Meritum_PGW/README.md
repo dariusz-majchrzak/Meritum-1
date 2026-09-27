@@ -7,3 +7,5 @@ This part of the project is the clone of the Meritum 1 mainboard.
 ## Files
 
 ## Assembling
+
+More to follow.
