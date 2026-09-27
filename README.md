@@ -30,6 +30,6 @@ Below, however, I provide links to a websites where they can be found, along wit
 Many useful materials can also be found at: https://www.speccy.pl/news.php .
 
 ## Assembling
-WIP
+Although the board includes several configuration jumpers, it does not require any additional settings that need to be adjusted before powering it on. The default configuration is sufficient.
   
 More to follow.
