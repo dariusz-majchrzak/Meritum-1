@@ -8,6 +8,15 @@ I also noticed that almost no modern retro‑computing projects related to it ex
 
 Given that, I decided to build one myself: using the documentation available online — schematics, module descriptions, and board photos — I set out to recreate the machine as my own hardware project.
 
+**Meritum 1 (Model 1)** <br>
+Basic Technical Specifications:
+* RAM: 16 KB (RAMD) + 1 KB (RAMS)
+* ROM: 14 KB (BASIC)
+* Video Memory: 1 KB (RAMS)
+* Display Modes: Text — 16×64 or 16×32
+* Peripherals: serial interface (i8251), parallel interface (i8255), tape connector
+* Colors: Monochrome
+<br>
 As of September 27, 2026, there are 4 successful builds (based on this pcb project), so the design files can be assumed valid.<br>
 
 ![](Meritum1.png)
