@@ -1,5 +1,5 @@
 # Meritum-1 clone project
-This repository provides all the files needed to build a **Meritum 1** ( https://pl.wikipedia.org/wiki/Meritum_(komputer) ) hardware recreation, closely following the design of the first microcomputer to be mass‑produced in Poland.<br>
+This repository provides all the files needed to build a **Meritum 1 (Model 1)** ( https://pl.wikipedia.org/wiki/Meritum_(komputer) ) hardware recreation, closely following the design of the first microcomputer to be mass‑produced in Poland.<br>
 
 Production of the Meritum computer began in mid‑1983, and its architecture was based on a design similar to the TRS‑80 Model I. Across all versions — Meritum I, II, and III — approximately 2,500 units were produced between 1984 and 1986.<br>
 
@@ -18,6 +18,7 @@ Basic Technical Specifications:
 * Colors: Monochrome
 <br>
 As of September 27, 2026, there are 4 successful builds (based on this pcb project), so the design files can be assumed valid.<br>
+<br>
 
 ![](Meritum1.png)
 
