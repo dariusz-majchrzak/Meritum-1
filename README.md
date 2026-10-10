@@ -1,4 +1,4 @@
-# Meritum-1 clone project
+# Meritum 1 clone
 This repository provides all the files needed to build a **Meritum 1 (Model 1)** ( https://pl.wikipedia.org/wiki/Meritum_(komputer) ) hardware recreation, closely following the design of the first microcomputer to be mass‑produced in Poland.<br>
 
 Production of the Meritum computer began in mid‑1983, and its architecture was based on a design similar to the TRS‑80 Model I. Across all versions — Meritum I, II, and III — approximately 2,500 units were produced between 1984 and 1986.<br>
