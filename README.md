@@ -14,7 +14,7 @@ Basic Technical Specifications:
 * ROM: 14 KB (BASIC)
 * Video Memory: 1 KB (RAMS)
 * Display Modes: Text — 16×64 or 16×32
-* Peripherals: serial interface (i8251), parallel interface (i8255), tape connector
+* Peripherals: serial interface (i8251), parallel interface (i8255), tape interface
 * Colors: Monochrome
 <br>
 As of September 27, 2026, there are 4 successful builds (based on this pcb project), so the design files can be assumed valid.<br>
