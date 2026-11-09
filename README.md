@@ -22,6 +22,9 @@ As of September 27, 2026, there are 4 successful builds (based on this pcb proje
 
 ![](Meritum1.png)
 
+Top view of the mainboard:<br>
+![](Meritum1_PGW.png)
+
 Side view of the computer with connectors:<br>
 ![](Meritum1_stack.png)
 
